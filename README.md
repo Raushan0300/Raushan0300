@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Shutr - Social Media](https://shutr.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://12aushan.netlify.app/](https://12aushan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://raushan.xyz/](https://raushan.xyz/)
 
 - 💬 Ask me about **React, Node, MongoDB, Express, JavaScript, TypeScript, BlockChain, Web3**
 
