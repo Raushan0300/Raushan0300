@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/raushan2504" target="blank"><img src="https://img.shields.io/twitter/follow/raushan2504?logo=twitter&style=for-the-badge" alt="raushan2504" /></a> </p>
 
-- 🔭 I’m currently working on [Shutr - Social Media](https://shutr.netlify.app/)
+- 🔭 I’m currently working on [Trunkller - An AI UI Code Generator](https://www.trunkller.com)
 
-- 🌱 I’m currently learning **Web3, Blockchain**
-
-- 👯 I’m looking to collaborate on [Shutr - Social Media](https://shutr.netlify.app/)
+- 🌱 I’m currently learning **Web3, Blockchain, AI/ML, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://raushan.xyz/](https://raushan.xyz/)
 
