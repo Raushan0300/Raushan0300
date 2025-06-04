@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Trunkler - AI UI Generator](trunkller.com)<br>🤝 I’m looking for help with MERN Stack Development<br>🌱 I’m currently learning AI/ML and Web3<br>💬 Ask me about Fullstack, Web3 and AI/ML
+🔭 I’m currently working at [Ripeet - IT Solutions](ripeet.com)<br>🤝 I’m looking for help with MERN Stack Development<br>🌱 I’m currently learning AI/ML and Web3<br>💬 Ask me about Fullstack, Web3 and AI/ML
 
 
 ## 🌐 Socials:
